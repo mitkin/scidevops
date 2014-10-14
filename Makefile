@@ -1,0 +1,2 @@
+beam:
+	pdflatex talk.tex
